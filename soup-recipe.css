@@ -1,0 +1,45 @@
+body{
+  margin: 0px;
+  background-image: url("file:///Users/umedjonibrohimov/Desktop/C4Q/HTML/oct26/soup.jpg");
+  background-repeat: no-repeat !important;
+}
+h2{
+  position: absolute;
+  left: 350px;
+  top: 250px;
+  color: white;
+  font-size: 30px;
+  text-decoration: underline;
+}
+ul{
+  position: absolute;
+  left: 400px;
+  top: 300px;
+  font-size: 25px;
+  color: white;
+  text-shadow:
+    1px  2px 1px green,
+    1px -2px 1px green,
+   -1px  2px 1px green,
+   -1px -2px 1px green;
+}
+h3{
+  position: absolute;
+  left: 800px;
+  margin: -5px;
+  font-size: 30px;
+  color: white;
+  font-weight: bold;
+}
+ol{
+  position: absolute;
+  left: 640px;
+  top: 10px;
+}
+ol li {
+  font-variant: small-caps;
+  color: white;
+  height: 100px;
+  width: 570px;
+  font-size: 18px;
+}
